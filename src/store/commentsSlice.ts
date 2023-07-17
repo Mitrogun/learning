@@ -31,7 +31,6 @@ const initialState: CommentsState = {
             user: {
                 image: {
                     png: "https://images.unsplash.com/photo-1654110455429-cf322b40a906?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
-                    // C:\Users\admin\Desktop\Events\Test\learning\src\images\avatars\image-amyrobson.png
                     webp: "./images/avatars/image-amyrobson.webp"
                 },
                 username: "amyrobson"
